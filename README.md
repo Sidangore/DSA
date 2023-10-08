@@ -6,3 +6,8 @@ This is for code based on Data Structures and Algorithms.
 - Big-Omega Analysys.
 
 - Order of Growth.
+
+## Analysis of a multiple loop
+
+## Mathematics
+- Count Digits.
