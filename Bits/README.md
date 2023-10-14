@@ -12,3 +12,9 @@ Takes 2 numbers as operands. It does AND operation on every bit of the 2 numbers
 Ex. A = 5, B = 3 => A & B = 1
 
 2. | operator
+Takes 2 numbers as operands. It does OR operation on every bit of the 2 numbers.
+Result of OR is 1 if any of the 2 bits are 1.
+Ex. A = 5, B = 3 => A | B = 7
+
+3. ^ XOR operator
+
