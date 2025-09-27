@@ -1,4 +1,4 @@
-# DSA
+# Data Structures and Algorithms
 This is for code based on Data Structures and Algorithms.
 
 ## Introduction
